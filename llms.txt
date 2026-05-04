@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Kalam Mosh Hyetnzel |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kalam-mosh-hyetnzel/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> تعالي إلي واحضنيني بشوق
+> عشقك يسري في كل العروق
+> أذوب في عينيك طوال الليل
+> حبك في قلبي ليس له بديل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
