@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> تعالي إلي واحضنيني بشوق
+> عشقك يسري في كل العروق
+> أذوب في عينيك طوال الليل
+> حبك في قلبي ليس له بديل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
